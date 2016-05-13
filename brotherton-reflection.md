@@ -1,0 +1,5 @@
+What Git Concepts were you struggleing with prior to GPS session? I was struggling with remembering how to do git pulls and pushes.
+Concepts that were clarified : Git pulls were clarified because I was able to practice with a partner on exchanging repo's.
+What questions? I asked about how to block code in markdown and what the difference was between 1 and 3 backticks in blocking code.
+Still confuses me about Git? I still feel like I need more practice in pushing/pulling/merge conflicts just to commit it to memory. I get the theory of GitHub and why it is great to use and what is supposed to be happening, I am just second guessing the actual code writing.
+First experience pairing in GPS? It was helpful to have the guide available just for confirmation that we were doing things correctly at the beginning, and very helpful if as we were figuring out questions if we were completely wrong she could re-direct us. Overall it was a helpful learning experience.
